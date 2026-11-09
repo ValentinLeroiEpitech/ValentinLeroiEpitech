@@ -32,16 +32,6 @@ Today, I'm expanding my skills in **React, TypeScript, and full-stack developmen
 
 ---
 
-## 🎮 My FiveM Journey
-
-**3+ Years of FiveM Development Experience**
-
-FiveM development is where my programming journey began.
-
-This experience helped me develop a strong interest in **problem-solving, programming logic, and software architecture**.
-
----
-
 ## 🎯 My Goals
 
 - 🎓 **Graduate from Epitech** and become a skilled software engineer.
