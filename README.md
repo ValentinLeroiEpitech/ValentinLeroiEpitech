@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a **1st-year Bachelor's student at Epitech**, passionate about **software engineering, web development, and game scripting**.
 
-I've been developing on **FiveM for over 4 years**, gaining hands-on experience in **Lua scripting, server development, and building custom systems**.
+I've been developing on **FiveM for over 3 years**, gaining hands-on experience in **Lua scripting, server development, and building custom systems**.
 
 Today, I'm expanding my skills in **React, TypeScript, and full-stack development**, constantly learning and challenging myself with new projects.
 
@@ -34,11 +34,9 @@ Today, I'm expanding my skills in **React, TypeScript, and full-stack developmen
 
 ## 🎮 My FiveM Journey
 
-**4+ Years of FiveM Development Experience**
+**3+ Years of FiveM Development Experience**
 
 FiveM development is where my programming journey began.
-
-Over the years, I've explored **Lua scripting, custom resources, gameplay systems, and server-side development**.
 
 This experience helped me develop a strong interest in **problem-solving, programming logic, and software architecture**.
 
@@ -48,24 +46,13 @@ This experience helped me develop a strong interest in **problem-solving, progra
 
 - 🎓 **Graduate from Epitech** and become a skilled software engineer.
 - ⚛️ **Master React & TypeScript** to build modern web applications.
-- 🧠 **Explore Artificial Intelligence** and its integration into software.
 - 🏗️ **Build innovative projects** and improve my full-stack skills.
 - 🚀 **Turn ideas into real products** and explore entrepreneurship.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinLeroiEpitech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinLeroiEpitech&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 💬 A Little More About Me
 
 **Code. Learn. Build. Repeat.**
-
-I believe that **every project is an opportunity to grow**, every challenge is a chance to learn, and every line of code brings me closer to my goals.
 
 **Thanks for visiting my profile!** 🚀
